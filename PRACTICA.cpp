@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <iostream>
 using namespace std;
-void multiplicacion(float *n){
-	
-}
+void multiplicacion(float *n);
+
+
+
+
 
 
 
@@ -16,9 +18,10 @@ void multiplicacion(float *n){
 
 int main(){
 	float n[100];
+	do{
 	cout<<"Ingrese un Numero";
-	cin>>n[];
-	
+	cin>>n[i];
+}while(n==0)
 	
 	
 	
@@ -28,8 +31,9 @@ int main(){
 	return 0;
 }
 
-void()
-
+void multiplicacion(float *n,float *resp){
+	*resp=
+}
 
 
 
